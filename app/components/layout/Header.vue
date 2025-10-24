@@ -21,7 +21,7 @@
           </NuxtLink>
           <NuxtLink to="/screener" class="nav-link" :class="{ active: isActive('/screener') }">
             <i class="bi bi-funnel me-1"></i>
-            Screener
+            Filters
           </NuxtLink>
           <NuxtLink to="/watchlists" class="nav-link" :class="{ active: isActive('/watchlists') }">
             <i class="bi bi-eye me-1"></i>
