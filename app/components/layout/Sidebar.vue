@@ -91,7 +91,7 @@ const mainNav = [
 ];
 
 const screeningNav = [
-  { label: 'Stock Screener', path: '/screener', icon: 'bi bi-funnel-fill' },
+  { label: 'Filters', path: '/screener', icon: 'bi bi-funnel-fill' },
   { label: 'Saved Filters', path: '/filters', icon: 'bi bi-bookmark-fill' },
   { label: 'Presets', path: '/presets', icon: 'bi bi-star-fill' },
 ];

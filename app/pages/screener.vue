@@ -6,7 +6,7 @@
         <div>
           <h1 class="mb-1">
             <i class="bi bi-funnel-fill text-action me-2"></i>
-            Stock Screener
+            Filters
           </h1>
           <p class="text-muted mb-0">
             Filter stocks by financial metrics, performance, and fundamental analysis

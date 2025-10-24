@@ -54,7 +54,7 @@ async function testSite() {
 
     // Check for screener content
     const screenerContent = await page.content();
-    const hasScreener = screenerContent.includes('Stock Screener') || screenerContent.includes('Presets');
+    const hasScreener = screenerContent.includes('Filters') || screenerContent.includes('Presets');
     console.log(`   ${hasScreener ? '✅' : '❌'} Screener content loaded`);
 
     // Check if tabs are present

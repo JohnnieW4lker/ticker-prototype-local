@@ -91,7 +91,7 @@
         </NuxtLink>
         <NuxtLink to="/screener" class="mobile-nav-link" @click="closeMobileMenu">
           <i class="bi bi-funnel me-2"></i>
-          Screener
+          Filters
         </NuxtLink>
         <NuxtLink to="/watchlists" class="mobile-nav-link" @click="closeMobileMenu">
           <i class="bi bi-eye me-2"></i>
